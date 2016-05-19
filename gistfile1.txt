@@ -20,7 +20,7 @@ wget https://iojs.org/dist/v3.3.1/iojs-v3.3.1-linux-x64.tar.gz
 tar --strip-components 1 -xzvf iojs-v* -C /usr/local
 
 # Clone steamboosthours repository
-git clone https://github.com/frk1/steamhourboost.git ~/steamboosthours
+git clone https://github.com/xratedownz/home.git ~/steamboosthours
 cd ~/steamboosthours
 
 # Run npm install
