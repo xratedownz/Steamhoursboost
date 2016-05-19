@@ -7,7 +7,12 @@ POSSIBLE_GAMES = [
   {name: 'CS 1.6', value: '10', checked: true}
   {name: 'CS Source', value: '240', checked: true}
   {name: 'CS GO', value: '730', checked: true}
-  {name: 'Dota 2', value: '570'}
+  {name: 'Dota 2', value: '570' checked: true}
+  {name: 'TF2', value: '440' checked: true}
+  {name: 'Sirius Online', value: '368720' checked: true}
+  {name: 'Flesh Eaters', value: '383580' checked: true}
+  {name: 'Warframe', value: '230410' checked: true}
+  {name: 'Tinboy', value: '399430' checked: true}
 ]
 
 account = null
